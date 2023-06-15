@@ -1,5 +1,5 @@
 # Smart Farm Infrastructure with Metaverse
-### *Sejsong University SesLab*
+### *Sejong University SesLab*
 ### Kim Joo-sung (Team Leader)
 ### Eom Kyeong-ho
 ![img/tumbnail.jpg](img/thumbnail.jpg)
