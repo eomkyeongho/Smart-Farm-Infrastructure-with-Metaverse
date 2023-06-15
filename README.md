@@ -1,4 +1,6 @@
 # Smart Farm Infrastructure with Metaverse
+### Kim Joo-sung - Team Leader<br>
+### Eom Kyeong-ho - Team Member
 ![img/tumbnail.jpg](img/thumbnail.jpg)
 
 Experience farming anywhere with SFIM! You can check and cultivate your actual farm on Roblox!
