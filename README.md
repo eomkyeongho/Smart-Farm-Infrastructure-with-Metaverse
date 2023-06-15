@@ -1,4 +1,4 @@
-# SmartFarm Infrastructure with Metaverse
+# Smart Farm Infrastructure with Metaverse
 ![img/tumbnail.jpg](img/thumbnail.jpg)
 
 Experience farming anywhere with SFIM! You can check and cultivate your actual farm on Roblox!
