@@ -3,13 +3,13 @@
 
 Experience farming anywhere with SFIM! You can check and cultivate your actual farm on Roblox!
 
-See the full detail of this project on our [hackster.io](https://www.hackster.io/rudgh9242/smart-farm-infrastructure-with-metaverse-373664)
+See the full detail of this project on our [**hackster.io**](https://www.hackster.io/rudgh9242/smart-farm-infrastructure-with-metaverse-373664)
 
 All devices in this app is powered by oneM2M
 
 This app utilizes [**Mobius**](https://github.com/IoTKETI/Mobius) as IN-CSE and MN-CSE
 
-For further information about oneM2M visit [onem2m webpage](https://www.onem2m.org)
+For further information about oneM2M visit [**onem2m.org**](https://www.onem2m.org)
 <br>
 
 ## Hardware
@@ -77,3 +77,6 @@ Plant device has following actuator
 4. Input IN-CSE name, MN-CSE name, MN-CSE host address and chip_no. Note that chip_no is used to make AE<br>
 (chip_no 0 register moistureSensor0, moistureSensor1. chip_no 1 registers moistureSensor2, moistureSensor3)
 5. Wait a few seconds and the device would start updating the Sensors
+
+# Award
+![img/2nd_Prize.png](img/2nd_Prize.png)
