@@ -83,4 +83,5 @@ Plant device has following actuator
 
 # Award
 ### 2023.04.01 ~ 2023.06.05 7th International oneM2M Hackathon
+![img/2nd_Award.jpg](img/2nd_Award.jpg)
 ![img/2nd_Prize.png](img/2nd_Prize.png)
